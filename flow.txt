@@ -1,0 +1,13 @@
+#user query
+
+#display user query
+
+#save query to chat history
+
+#send the chat_history to llm
+
+#get_response_from_llm
+
+#save_response_in_chat_history
+
+#display llm response
